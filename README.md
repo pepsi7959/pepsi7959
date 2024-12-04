@@ -1,0 +1,1 @@
+![Terminal](img/terminal.svg)
